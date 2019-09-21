@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iliexuasei.gonzalobulnes.com/sitemap.xml
